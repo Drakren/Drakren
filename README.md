@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there!👋
+I'm Mohammed Talha, an Electrical and Electronics Engineering undergraduate based in Chandigarh. 
+I specialize in Embedded Systems and Autonomous Robotics.
 
-<!--
-**Drakren/Drakren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy the challenge of bridging the gap between low-level firmware and complex mechanical movement. If there isn't a manual for it, I make one.
 
-Here are some ideas to get you started:
+🤖Technical Toolbox:
+  Microcontrollers: STM32 (G4/F4 series), ESP32, Raspberry Pi, Arduino
+  Languages: C, Embedded C, C++, Python
+  Robotics Stack: ROS2, Gazebo, Nav2, Madgwick Filter, PID Control
+  Hardware & Tools: Linux (Ubuntu), Git, STM32CubeIDE, KiCad, Sensor Fusion (IMUs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lets connect: sajid.talha2004@gmail.com
