@@ -11,9 +11,9 @@ I enjoy the challenge of bridging the gap between low-level firmware and complex
 * **Aerial Robotics:** Exploring drone research and flight simulation environments.
 
 ### 🤖Technical Toolbox:
-* **Microcontrollers: STM32 (G4/F4 series), ESP32, Raspberry Pi, Arduino
-* **Languages: C, Embedded C, C++, Python
-* **Robotics Stack: ROS2, Gazebo, Nav2, Madgwick Filter, PID Control
-* **Hardware & Tools: Linux (Ubuntu), Git, STM32CubeIDE, KiCad, Sensor Fusion (IMUs)
+* **Microcontrollers:** STM32 (G4/F4 series), ESP32, Raspberry Pi, Arduino
+* **Languages:** C, Embedded C, C++, Python
+* **Robotics Stack:** ROS2, Gazebo, Nav2, Madgwick Filter, PID Control
+* **Hardware & Tools:** Linux (Ubuntu), Git, STM32CubeIDE, KiCad, Sensor Fusion (IMUs)
 
 Lets connect: sajid.talha2004@gmail.com
