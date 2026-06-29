@@ -4,15 +4,15 @@ I specialize in Embedded Systems and Autonomous Robotics.
 
 I enjoy the challenge of bridging the gap between low-level firmware and complex mechanical movement. If there isn't a manual for it, I make one.
 
-### 🚀 What I’m Working On
+### What I’m Working On
 * **Autonomous Navigation:** Developing high-speed Micromouse robots using STM32 platforms, focusing on PID control loops and maze-solving algorithms.
 * **Assistive Technology:** Researching EMG and EEG sensor integration for prosthetic limbs at DIC mDart to improve human-machine interfaces.
 * **Smart Systems:** Leveraging IMU data and force measurement for healthcare applications, including a patented smart toothbrush design.
 
-### 🤖Technical Toolbox:
+### Tech Stack:
 * **Microcontrollers:** STM32 (G4/F4 series), ESP32, Raspberry Pi, Arduino
 * **Languages:** C, Embedded C, C++, Python
 * **Robotics Stack:** ROS2, Gazebo, Nav2, Madgwick Filter, PID Control
 * **Hardware & Tools:** Linux (Ubuntu), Git, STM32CubeIDE, KiCad, Sensor Fusion (IMUs)
 
-Lets connect: sajid.talha2004@gmail.com
+Contact: sajid.talha2004@gmail.com
